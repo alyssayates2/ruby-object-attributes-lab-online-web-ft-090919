@@ -9,3 +9,6 @@ end
 dog1 = Dog.new
 dog1.name = "Fido"
 dog1.breed = "Beagle"
+
+
+puts dog1
