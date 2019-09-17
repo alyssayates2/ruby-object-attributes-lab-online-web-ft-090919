@@ -5,7 +5,3 @@ class Dog
     @breed = breed
   end
 end
-
-dog1 = Dog.new("Fido", "Beagle")
-
-puts dog1
