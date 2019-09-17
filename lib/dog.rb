@@ -6,9 +6,4 @@ class Dog
   end
 end
 
-dog1 = Dog.new
-dog1.name = "Fido"
-dog1.breed = "Beagle"
-
-
-puts dog1
+dog1 = Dog.new("Fido", "Beagle")
